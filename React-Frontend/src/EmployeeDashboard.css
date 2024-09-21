@@ -1,0 +1,29 @@
+.container {
+    max-width: 500px; /* Adjust the max-width as needed */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  table {
+    width: 100%; /* Set the table width to 100% */
+    border-collapse: collapse; /* Optional: collapse the table borders */
+  }
+  
+  th, td {
+    padding: 10px; /* Add padding to the table cells for better spacing */
+    text-align: left; /* Align text to the left in table cells */
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  
