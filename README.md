@@ -1,6 +1,7 @@
 **Employee Management System**
 
 This web application provides a comprehensive solution for managing employee data and operations. Built using Spring Boot for the backend, it offers robust RESTful APIs for data handling, user authentication, and business logic. The React frontend ensures a dynamic and responsive user interface, allowing users to easily add, update, and delete employee records.
+
 **Employee Home Screen**
 ![Screenshot from 2024-09-21 16-12-16](https://github.com/user-attachments/assets/4802d958-9735-4d0b-aefa-510868a4805b)
 
